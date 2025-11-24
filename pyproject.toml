@@ -10,7 +10,10 @@ dependencies = [
     "matplotlib>=3.10.1",
     "mlxtend>=0.23.4",
     "numpy>=2.2.5",
+<<<<<<< HEAD
     "openpyxl>=3.1.5",
+=======
+>>>>>>> upstream/main
     "pandas>=2.2.3",
     "pmdarima>=2.0.4",
     "relieff>=0.1.2",
